@@ -1,0 +1,11 @@
+Project Plan
+============
+
+Work for Saimon
+---------------
+1. Develop web page titled menu.html
+
+
+Work for Tonu
+---------------
+1. Develop web page titled home.html 
