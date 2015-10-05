@@ -4,8 +4,10 @@ Project Plan
 Work for Saimon
 ---------------
 1. Develop web page titled menu.html
+2. Add some css for the web page
 
 
 Work for Tonu
 ---------------
-1. Develop web page titled home.html 
+1. Develop web page titled home.html
+2. Add some css for the web page
